@@ -1,7 +1,7 @@
 
 
 class ElemetLinks: 
-    HOST = "https://demoqa.com/"
+    HOST = "https://demoqa.com"
     ELEMENTS_PAGE = f"{HOST}/elements"
     TEXT_BOX_PAGE = f"{HOST}/text-box"
     CHECKBOX_PAGE = f"{HOST}/checkbox"
