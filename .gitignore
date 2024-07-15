@@ -1,1 +1,7 @@
 venv
+.pytest_cache
+/Elements/__pycache__
+/Elements/pages/__pycache__
+/Elements/base/__pycache__
+/Elements/config/__pycache__
+/Elements/tests/__pycache__
